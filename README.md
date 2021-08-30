@@ -1,6 +1,6 @@
-# _{Pizza Parlor}_
+# _{Template}_
 
-#### _A web application that takes a customized pizza order from a user and returns the total cost based on size and any number of selected toppings._
+#### _A template._
 
 #### By _**{Connor Hansen}**_
 
